@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/auth/logout/route": "/api/auth/logout",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/categories/[id]/route": "/api/categories/[id]",
+  "/api/categories/route": "/api/categories",
+  "/api/expenses/[id]/route": "/api/expenses/[id]",
+  "/api/expenses/route": "/api/expenses",
+  "/api/init-data/route": "/api/init-data",
+  "/api/reports/route": "/api/reports",
+  "/dashboard/page": "/dashboard",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/"
+}
